@@ -3,9 +3,11 @@ RENCANA KONTEN VID
 - Javascript
   * ES6
   * Framework javascript
-    ^ Angular
-    ^ React 
+    ^ Vue
+    ^ React
+- Struktur Data Dasar
 - Php frameworks
   ^ Laravel
 - Interview
 - Vlogs
+- Phyton
